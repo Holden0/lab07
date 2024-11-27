@@ -39,7 +39,7 @@ select {
   align-items: center;
   margin-bottom: 2em;
   border: solid 1px #E2E2E2;
-  color: #FFFFFF;
+  background-color: #FFFFFF;
 }
 
 .countries-container {
