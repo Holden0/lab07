@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  background-color: #FAFAFA;
+}
+
+.content {
+  text-align: center;
+  background-color: #FFFFFF;
+  border: solid 1px #E2E2E2;
+  border-radius: 1em;
+  padding: 2em;
+  min-width: 438px;
+}
+
+.content h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.8em;
+  color:#333;
+}
+
+.content p {
+  text-align: left;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+select {
+  padding: 8px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2em;
+  border: solid 1px #E2E2E2;
+}
+
+.countries-container {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  margin-top: 10px;
+}
